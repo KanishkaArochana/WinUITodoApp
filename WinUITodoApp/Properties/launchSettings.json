@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUITodoApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUITodoApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
