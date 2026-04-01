@@ -10,4 +10,5 @@
     <Platform Solution="*|x86" Project="x86" />
     <Deploy />
   </Project>
+  <Project Path="WPFTodoApp/WPFTodoApp.csproj" Id="48353b97-8ea7-4bc1-b7a6-f7bac9f809d1" />
 </Solution>
